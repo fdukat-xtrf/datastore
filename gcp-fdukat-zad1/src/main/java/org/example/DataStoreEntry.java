@@ -10,7 +10,7 @@ import java.util.UUID;
 
 public class DataStoreEntry {
     private static final String PROJECT_ID = "brep-playground";
-    private static final String CREDENTIALS_PATH = "src/main/resources/brep-playground-40458e49ca06.json";
+    private static final String CREDENTIALS_PATH = "src/main/resources/brep-playground.json";
 
 
     public static  void main(String[] args) throws IOException {
